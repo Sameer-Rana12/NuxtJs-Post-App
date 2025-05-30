@@ -1,24 +1,20 @@
-// ============================
-// README.md
-// ============================
-# Nuxt Posts App
+# Nuxt.js Developer Assignment - WebReinvent
 
-A Nuxt 3 TypeScript test project for Webreinvent Technology Pvt. Ltd.
+This project was built as part of the technical evaluation for the Nuxt.js Developer role at WebReinvent Technology Pvt. Ltd.
 
-## Features
+## 🛠️ Tech Stack
+- Nuxt.js 3
+- Pinia
+- Tailwind CSS
+- JSONPlaceholder API
 
-- Nuxt 3 + TypeScript
-- Pinia for state management with 15-min caching
-- Tailwind CSS for styling (no manual config)
-- Fetch posts from DummyJSON API
+## 🔥 Features
+- Fetches posts via API with 15-minute caching
 - Reusable PostCard component
-- Dynamic routing for post details
+- Dynamic routing for post detail pages
+- Clean UI with Tailwind
 
-## Setup
-
+## 🧪 How to Run
 ```bash
-npx nuxi init nuxt-posts-app
-cd nuxt-posts-app
 npm install
 npm run dev
-```
