@@ -1,7 +1,5 @@
 # Nuxt.js Developer Assignment - WebReinvent
 
-This project was built as part of the technical evaluation for the Nuxt.js Developer role at WebReinvent Technology Pvt. Ltd.
-
 ## 🛠️ Tech Stack
 - Nuxt.js 3
 - Pinia
